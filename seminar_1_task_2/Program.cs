@@ -21,6 +21,7 @@ if (a > b)
      {
         max = b;
         min = a;
+        
         }
 Console.WriteLine("{0} Максимальное число", (max));
 Console.WriteLine("{0} Минимальное число", (min));
